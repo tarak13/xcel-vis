@@ -1,2 +1,2 @@
 # xcel-vis
-Samples of Excel VIsualizations
+Samples of Excel Visualizations
