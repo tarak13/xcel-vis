@@ -1,1 +1,3 @@
-Folder for Examination of Menopause and Alcoholism
+Data from this analysis is from Kaggle - https://www.kaggle.com/code/iamnimish/alcohol-specific-deaths-analysis
+I filtered on deaths related to by excess and alcohol poisoning.
+This is data for the UK only and is 2001-2021 (no data on 2020 it seems)
